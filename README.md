@@ -12,9 +12,13 @@ Muito prazer, me chamo Jonatan, sou estudante na área de Desenvolvimento de Sis
     <a href="mailto:jonatanfrederico@gmail.com">📧 Email</a>
 </p>
 
-
 ### Minhas estatísticas 📈
 ---
+
+<details>
+    <summary>
+        <i>Clique aqui para ver</i>
+    </summary>
 
 <a href="https://github.com/Jonatan966/Jonatan966">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jonatan966&hide=java,css&theme=dark" />
@@ -22,3 +26,5 @@ Muito prazer, me chamo Jonatan, sou estudante na área de Desenvolvimento de Sis
 <a href="https://github.com/Jonatan966/Jonatan966">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Jonatan966&show_icons=true&line_height=33&count_private=true&theme=dark" />
 </a>
+
+</details>
