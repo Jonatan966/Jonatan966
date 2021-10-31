@@ -1,10 +1,9 @@
-### Opa! 👋
----
+## Opa! 👋
 Desenvolvo sistemas desde 2019, possuo formação técnica em Desenvolvimento de Sistemas. Atualmente estou focado no desenvolvimento de aplicações web, sejam elas sites ou APIs.
 
 
-### 🛠️ Principais habilidades
----
+## 🛠️ Principais habilidades
+
 <div>
     <img src="https://user-images.githubusercontent.com/37812781/138798858-63cd24b5-cddb-4536-85e3-9f806e7e10fc.png" alt="Javascript" width="64px" />
     <img src="https://user-images.githubusercontent.com/37812781/138798888-f0a6c3a7-29d1-4273-b7e1-d4104c557356.png" alt="HTML5" width="64px" />
@@ -17,27 +16,17 @@ Desenvolvo sistemas desde 2019, possuo formação técnica em Desenvolvimento de
 </div>
 
 
-### 🌍 Formas de contato
----
+## 🌍 Formas de contato
 
 [![Rocketseat](https://img.shields.io/badge/%F0%9F%9A%80%20Rocketseat-%238257e6?style=for-the-badge)](https://app.rocketseat.com.br/me/jonatan-frederico)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonatan-frederico/)
 [![Email](https://img.shields.io/badge/EMail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jonatanfrederico@gmail.com)
 
 
-### 📈 Minhas estatísticas
----
+## 📈 Minhas estatísticas
 
-<details>
-    <summary>
-        <i>Clique aqui para ver</i>
-    </summary>
+<div align="center">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jonatan966&layout=compact&langs_count=7&theme=react&hide_border=true" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jonatan966&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true" />
+</div>
 
-<a href="https://github.com/Jonatan966/Jonatan966">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jonatan966&hide=java,css&theme=dark" />
-</a>
-<a href="https://github.com/Jonatan966/Jonatan966">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Jonatan966&show_icons=true&line_height=33&count_private=true&theme=dark" />
-</a>
-
-</details>
